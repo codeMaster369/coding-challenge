@@ -1,19 +1,71 @@
+# My Java Project
+
+This repository contains a Java project developed as part of the APT2080 course in Spring 2025 at USIU.
+
+## Project Description
+
+[**Replace this with a detailed description of your project.**]
+
+Briefly describe what your project does, its purpose, and any key features. For example:
+
+> This project implements a set of Java classes demonstrating fundamental programming concepts such as interfaces, inheritance, polymorphism, and array manipulation. It includes examples of increment/decrement operators, temperature conversion, random number generation, conditional logic, and array operations.
+
+## Challenges Solved
+
+This project addresses the following coding challenges:
+
+1.  **Increment and Decrement:** Demonstrates various increment and decrement operators.
+2.  **Increment and Decrement Order:** Explains the difference between pre- and post-increment/decrement.
+3.  **Converting to Celsius:** Converts Fahrenheit to Celsius and rounds the result.
+4.  **Overriding (Random):** Generates random numbers using the `Random` class.
+5.  **Dice Decision (if-else):** Simulates dice rolls and determines a win condition.
+6.  **Exercise: If-Else Decision (Subscription):** Provides subscription discounts based on expiration.
+7.  **Array Challenge (Filtering):** Filters array elements based on a condition.
+8.  **Array Challenge (Random Order IDs):** Generates random order IDs.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To run this project, you will need:
 
-## Folder Structure
+* **Java Development Kit (JDK):** Make sure you have a compatible JDK installed.
+* **Integrated Development Environment (IDE):** You can use NetBeans or any other Java IDE.
 
-The workspace contains two folders by default, where:
+### Running the Code
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1.  Clone this repository to your local machine:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    ```bash
+    git clone <your_repository_url>
+    ```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2.  Open the project in your IDE.
+3.  Navigate to the `src/` directory (or wherever your `.java` files are).
+4.  Compile and run the `Main.java` file (or the appropriate entry point for each challenge).
 
-## Dependency Management
+## Usage
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# coding-challenge
+[**Add specific usage instructions if necessary.**]
+
+Provide examples of how to use your project. If it has a command-line interface, show how to run it with arguments.
+
+## Contributing
+
+[**Optional: Add contribution guidelines.**]
+
+If you want others to contribute to your project, explain how they can submit pull requests or report issues.
+
+## License
+
+[**Optional: Add a license.**]
+
+If you want to specify a license for your project, add the license information here.
+
+## Author
+
+* [Your Name] - [Your GitHub Profile URL]
+
+## Acknowledgments
+
+[**Optional: Add acknowledgments.**]
+
+If you want to acknowledge anyone or any resources you used, add them here.
