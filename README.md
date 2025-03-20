@@ -4,11 +4,8 @@ This repository contains a Java project developed as part of the APT2080 course 
 
 ## Project Description
 
-[**Replace this with a detailed description of your project.**]
+This project implements a set of Java classes demonstrating fundamental programming concepts such as interfaces, inheritance, polymorphism, and array manipulation. It includes examples of increment/decrement operators, temperature conversion, random number generation, conditional logic, and array operations.
 
-Briefly describe what your project does, its purpose, and any key features. For example:
-
-> This project implements a set of Java classes demonstrating fundamental programming concepts such as interfaces, inheritance, polymorphism, and array manipulation. It includes examples of increment/decrement operators, temperature conversion, random number generation, conditional logic, and array operations.
 
 ## Challenges Solved
 
